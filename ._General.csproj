@@ -1,0 +1,71 @@
+<Project>
+  <PropertyGroup>
+  
+    <MyDotnetVersion>7.0</MyDotnetVersion>
+    <TargetFramework>net$(MyDotnetVersion)</TargetFramework>
+
+    <MyCommonCsProjPath>D:\__LIBS\._Common\_C#\._CsProj</MyCommonCsProjPath>
+    <MyCommonCsProjSrcPath>$(MyCommonCsProjPath)\_SRC</MyCommonCsProjSrcPath>
+    <MyCommonCsProjTestsPath>$(MyCommonCsProjPath)\TESTS</MyCommonCsProjTestsPath>
+
+    
+    <MyBoundedContextFolderNamePrefix>_General</MyBoundedContextFolderNamePrefix>
+
+    <!-- Versions majeures souhaitées communes aux projets(de cette arboresence) dépendants du package en question : -->
+    
+    <!-- General.Basics -->
+      <MyGeneralBasics_MajorVersion>1</MyGeneralBasics_MajorVersion>
+      <MyGeneralBasicsSerialization_MajorVersion>1</MyGeneralBasicsSerialization_MajorVersion>
+      <MyGeneralBasicsTrees_MajorVersion>1</MyGeneralBasicsTrees_MajorVersion>
+    
+    <!-- General.Resources -->
+      <MyGeneralResourcesBasics_MajorVersion>1</MyGeneralResourcesBasics_MajorVersion>
+      <MyGeneralResourcesDiskElementsBasicsAPI_MajorVersion>1</MyGeneralResourcesDiskElementsBasicsAPI_MajorVersion>
+      <MyGeneralResourcesDiskElementsBasicsApplication_MajorVersion>1</MyGeneralResourcesDiskElementsBasicsApplication_MajorVersion>
+      <MyGeneralResourcesDiskElementsBasicsDomain_MajorVersion>1</MyGeneralResourcesDiskElementsBasicsDomain_MajorVersion>
+      <MyGeneralResourcesDiskElementsBasicsInfraServices_MajorVersion>1</MyGeneralResourcesDiskElementsBasicsInfraServices_MajorVersion>      
+
+    <!-- General.SequenceParsing -->
+      <MyGeneralSequenceParsing_MajorVersion>1</MyGeneralSequenceParsing_MajorVersion>
+
+    <!-- General.CleanCode -->
+      <MyGeneralCleanCodeBasics_MajorVersion>1</MyGeneralCleanCodeBasics_MajorVersion>
+      <MyGeneralCleanCodeAPI_MajorVersion>1</MyGeneralCleanCodeAPI_MajorVersion>
+      <MyGeneralCleanCodeDomain_MajorVersion>1</MyGeneralCleanCodeDomain_MajorVersion>
+      <MyGeneralCleanCodeApplication_MajorVersion>1</MyGeneralCleanCodeApplication_MajorVersion>
+
+    <!-- General.CodeDiagnostics -->
+      <MyGeneralCodeDiagnosticsProfilingAPI_MajorVersion>1</MyGeneralCodeDiagnosticsProfilingAPI_MajorVersion>
+      <MyGeneralCodeDiagnosticsDebuggingAPI_MajorVersion>1</MyGeneralCodeDiagnosticsDebuggingAPI_MajorVersion>
+      <MyGeneralCodeDiagnosticsDebuggingApplication_MajorVersion>1</MyGeneralCodeDiagnosticsDebuggingApplication_MajorVersion>
+      <MyGeneralCodeDiagnosticsDebuggingInfra_MajorVersion>1</MyGeneralCodeDiagnosticsDebuggingInfra_MajorVersion>
+
+    <!-- General.UI -->
+      <MyGeneralUIHTMLBasics_MajorVersion>1</MyGeneralUIHTMLBasics_MajorVersion>
+      <MyGeneralUIBasics_MajorVersion>1</MyGeneralUIBasics_MajorVersion>
+
+    <!-- General.UI.Trees -->
+      <MyGeneralUITreesViewModels_MajorVersion>2</MyGeneralUITreesViewModels_MajorVersion>
+      <MyGeneralUITreesPresentersSequenceParsing_MajorVersion>1</MyGeneralUITreesPresentersSequenceParsing_MajorVersion>
+      <MyGeneralUITreesViewsHTML_MajorVersion>2</MyGeneralUITreesViewsHTML_MajorVersion>
+
+    <!-- General.OS -->
+      <MyGeneralOSBasicsAPI_MajorVersion>1</MyGeneralOSBasicsAPI_MajorVersion>
+      <MyGeneralOSBasicsApplication_MajorVersion>1</MyGeneralOSBasicsApplication_MajorVersion>
+      <MyGeneralOSBasicsDomain_MajorVersion>1</MyGeneralOSBasicsDomain_MajorVersion>
+      <MyGeneralOSBasicsInfraServices_MajorVersion>1</MyGeneralOSBasicsInfraServices_MajorVersion>
+      <MyGeneralOSBasicsInfraPersistence_MajorVersion>1</MyGeneralOSBasicsInfraPersistence_MajorVersion>
+
+      <MyGeneralOSAppsAPI_MajorVersion>1</MyGeneralOSAppsAPI_MajorVersion>
+      <MyGeneralOSAppsApplication_MajorVersion>1</MyGeneralOSAppsApplication_MajorVersion>
+      <MyGeneralOSAppsDomain_MajorVersion>1</MyGeneralOSAppsDomain_MajorVersion>
+      <MyGeneralOSAppsInfraServices_MajorVersion>1</MyGeneralOSAppsInfraServices_MajorVersion>
+      <MyGeneralOSAppsInfraPersistence_MajorVersion>1</MyGeneralOSAppsInfraPersistence_MajorVersion>
+
+      <MyGeneralOSEventsAPI_MajorVersion>1</MyGeneralOSEventsAPI_MajorVersion>
+      <MyGeneralOSEventsApplication_MajorVersion>1</MyGeneralOSEventsApplication_MajorVersion>
+      <MyGeneralOSEventsDomain_MajorVersion>1</MyGeneralOSEventsDomain_MajorVersion>
+      <MyGeneralOSEventsInfra_MajorVersion>1</MyGeneralOSEventsInfra_MajorVersion> 
+
+  </PropertyGroup>
+</Project>
