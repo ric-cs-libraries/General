@@ -33,10 +33,9 @@
       <MyGeneralSequenceParsing_MajorVersion>1</MyGeneralSequenceParsing_MajorVersion>
 
     <!-- General.CleanCode -->
-      <MyGeneralCleanCodeBasics_MajorVersion>1</MyGeneralCleanCodeBasics_MajorVersion>
-      <MyGeneralCleanCodeAPI_MajorVersion>1</MyGeneralCleanCodeAPI_MajorVersion>
-      <MyGeneralCleanCodeDomain_MajorVersion>2</MyGeneralCleanCodeDomain_MajorVersion>
-      <MyGeneralCleanCodeApplication_MajorVersion>2</MyGeneralCleanCodeApplication_MajorVersion>
+      <MyGeneralCleanCodeDDD_MajorVersion>1</MyGeneralCleanCodeDDD_MajorVersion>
+      <MyGeneralCleanCodeCleanArchiAPI_MajorVersion>1</MyGeneralCleanCodeCleanArchiAPI_MajorVersion>
+      <MyGeneralCleanCodeCleanArchiApplication_MajorVersion>1</MyGeneralCleanCodeCleanArchiApplication_MajorVersion>
 
     <!-- General.CodeDiagnostics -->
       <MyGeneralCodeDiagnosticsProfilingAPI_MajorVersion>1</MyGeneralCodeDiagnosticsProfilingAPI_MajorVersion>
