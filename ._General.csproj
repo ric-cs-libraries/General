@@ -27,7 +27,10 @@
       <MyGeneralResourcesDiskElementsBasicsDomain_MajorVersion>1</MyGeneralResourcesDiskElementsBasicsDomain_MajorVersion>
       <MyGeneralResourcesDiskElementsBasicsInfraServices_MajorVersion>1</MyGeneralResourcesDiskElementsBasicsInfraServices_MajorVersion>      
 
-      <MyGeneralResourcesHttpBasicsInfraServices_MajorVersion>1</MyGeneralResourcesHttpBasicsInfraServices_MajorVersion>
+      <MyGeneralResourcesHttpWebServicesBasicsInfraServices_MajorVersion>1</MyGeneralResourcesHttpWebServicesBasicsInfraServices_MajorVersion>
+      <MyGeneralResourcesHttpWebServicesBasicsWebAPI_MajorVersion>1</MyGeneralResourcesHttpWebServicesBasicsWebAPI_MajorVersion>
+      <MyGeneralResourcesHttpWebServicesBasicsEndpoints_MajorVersion>1</MyGeneralResourcesHttpWebServicesBasicsEndpoints_MajorVersion>
+      
       
     <!-- General.SequenceParsing -->
       <MyGeneralSequenceParsing_MajorVersion>1</MyGeneralSequenceParsing_MajorVersion>
