@@ -36,7 +36,7 @@
       <MyGeneralSequenceParsing_MajorVersion>1</MyGeneralSequenceParsing_MajorVersion>
 
     <!-- General.CleanCode -->
-      <MyGeneralCleanCodeDDD_MajorVersion>1</MyGeneralCleanCodeDDD_MajorVersion>
+      <MyGeneralCleanCodeDDD_MajorVersion>2</MyGeneralCleanCodeDDD_MajorVersion>
       <MyGeneralCleanCodeCleanArchiAPI_MajorVersion>1</MyGeneralCleanCodeCleanArchiAPI_MajorVersion>
       <MyGeneralCleanCodeCleanArchiApplication_MajorVersion>1</MyGeneralCleanCodeCleanArchiApplication_MajorVersion>
 
