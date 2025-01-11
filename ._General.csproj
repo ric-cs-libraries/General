@@ -14,7 +14,7 @@
     <!-- Versions majeures souhaitées communes aux projets(de cette arboresence) dépendants du package en question : -->
     
     <!-- General.Basics -->
-      <MyGeneralBasics_MajorVersion>3</MyGeneralBasics_MajorVersion>
+      <MyGeneralBasics_MajorVersion>4</MyGeneralBasics_MajorVersion>
       <MyGeneralBasicsReflection_MajorVersion>2</MyGeneralBasicsReflection_MajorVersion>
       <MyGeneralBasicsSerialization_MajorVersion>2</MyGeneralBasicsSerialization_MajorVersion>
       <MyGeneralBasicsTrees_MajorVersion>2</MyGeneralBasicsTrees_MajorVersion>
@@ -76,7 +76,10 @@
       <MyGeneralOSEventsAPI_MajorVersion>1</MyGeneralOSEventsAPI_MajorVersion>
       <MyGeneralOSEventsApplication_MajorVersion>1</MyGeneralOSEventsApplication_MajorVersion>
       <MyGeneralOSEventsDomain_MajorVersion>1</MyGeneralOSEventsDomain_MajorVersion>
-      <MyGeneralOSEventsInfraServices_MajorVersion>1</MyGeneralOSEventsInfraServices_MajorVersion> 
+      <MyGeneralOSEventsInfraServices_MajorVersion>1</MyGeneralOSEventsInfraServices_MajorVersion>
+
+    <!-- General.Encryption -->
+      <MyGeneralEncryption_MajorVersion>1</MyGeneralEncryption_MajorVersion>
 
   </PropertyGroup>
 </Project>
