@@ -79,7 +79,7 @@
       <MyGeneralOSEventsInfraServices_MajorVersion>1</MyGeneralOSEventsInfraServices_MajorVersion>
 
     <!-- General.Encryption -->
-      <MyGeneralEncryption_MajorVersion>1</MyGeneralEncryption_MajorVersion>
+      <MyGeneralSecurityEncryption_MajorVersion>2</MyGeneralSecurityEncryption_MajorVersion>
 
   </PropertyGroup>
 </Project>
