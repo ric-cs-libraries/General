@@ -36,7 +36,7 @@
       <MyGeneralSequenceParsing_MajorVersion>1</MyGeneralSequenceParsing_MajorVersion>
 
     <!-- General.CleanCode -->
-      <MyGeneralCleanCodeDDD_MajorVersion>3</MyGeneralCleanCodeDDD_MajorVersion>
+      <MyGeneralCleanCodeDDD_MajorVersion>4</MyGeneralCleanCodeDDD_MajorVersion>
       <MyGeneralCleanCodeCleanArchiApplication_MajorVersion>1</MyGeneralCleanCodeCleanArchiApplication_MajorVersion>
 
     <!-- General.CodeDiagnostics -->
