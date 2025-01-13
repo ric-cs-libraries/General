@@ -15,7 +15,7 @@
     
     <!-- General.Basics -->
       <MyGeneralBasics_MajorVersion>4</MyGeneralBasics_MajorVersion>
-      <MyGeneralBasicsReflection_MajorVersion>2</MyGeneralBasicsReflection_MajorVersion>
+      <MyGeneralBasicsReflectionExtended_MajorVersion>3</MyGeneralBasicsReflectionExtended_MajorVersion>
       <MyGeneralBasicsSerialization_MajorVersion>2</MyGeneralBasicsSerialization_MajorVersion>
       <MyGeneralBasicsTrees_MajorVersion>2</MyGeneralBasicsTrees_MajorVersion>
     
