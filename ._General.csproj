@@ -26,6 +26,7 @@
       <MyGeneralResourcesDiskElementsBasicsApplication_MajorVersion>1</MyGeneralResourcesDiskElementsBasicsApplication_MajorVersion>
       <MyGeneralResourcesDiskElementsBasicsDomain_MajorVersion>1</MyGeneralResourcesDiskElementsBasicsDomain_MajorVersion>
       <MyGeneralResourcesDiskElementsBasicsInfraServices_MajorVersion>1</MyGeneralResourcesDiskElementsBasicsInfraServices_MajorVersion>      
+      <MyGeneralResourcesDiskElementsBasicsInfra_MajorVersion>1</MyGeneralResourcesDiskElementsBasicsInfra_MajorVersion>      
 
       <MyGeneralResourcesHttpWebServicesBasicsInfraServices_MajorVersion>1</MyGeneralResourcesHttpWebServicesBasicsInfraServices_MajorVersion>
       <MyGeneralResourcesHttpWebServicesBasicsWebAPI_MajorVersion>1</MyGeneralResourcesHttpWebServicesBasicsWebAPI_MajorVersion>
