@@ -38,6 +38,7 @@
     <!-- General.CleanCode -->
       <MyGeneralCleanCodeDDD_MajorVersion>4</MyGeneralCleanCodeDDD_MajorVersion>
       <MyGeneralCleanCodeCleanArchiApplication_MajorVersion>1</MyGeneralCleanCodeCleanArchiApplication_MajorVersion>
+      <MyGeneralCleanCodeDesignPatterns_MajorVersion>1</MyGeneralCleanCodeDesignPatterns_MajorVersion>
 
     <!-- General.CodeDiagnostics -->
       <MyGeneralCodeDiagnosticsProfilingAPI_MajorVersion>1</MyGeneralCodeDiagnosticsProfilingAPI_MajorVersion>
