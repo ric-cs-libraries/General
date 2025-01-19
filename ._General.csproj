@@ -20,7 +20,7 @@
       <MyGeneralBasicsTrees_MajorVersion>2</MyGeneralBasicsTrees_MajorVersion>
     
     <!-- General.Resources -->
-      <MyGeneralResourcesBasics_MajorVersion>3</MyGeneralResourcesBasics_MajorVersion>
+      <MyGeneralResourcesBasics_MajorVersion>4</MyGeneralResourcesBasics_MajorVersion>
 
       <MyGeneralResourcesDiskElementsBasicsAPI_MajorVersion>1</MyGeneralResourcesDiskElementsBasicsAPI_MajorVersion>
       <MyGeneralResourcesDiskElementsBasicsApplication_MajorVersion>1</MyGeneralResourcesDiskElementsBasicsApplication_MajorVersion>
