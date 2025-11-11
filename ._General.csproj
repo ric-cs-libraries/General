@@ -14,74 +14,74 @@
     <!-- Versions majeures souhaitées communes aux projets(de cette arboresence) dépendants du package en question : -->
     
     <!-- General.Basics -->
-      <MyGeneralBasics_MajorVersion>6</MyGeneralBasics_MajorVersion>
-      <MyGeneralBasicsReflectionExtended_MajorVersion>3</MyGeneralBasicsReflectionExtended_MajorVersion>
-      <MyGeneralBasicsSerialization_MajorVersion>2</MyGeneralBasicsSerialization_MajorVersion>
-      <MyGeneralBasicsTrees_MajorVersion>2</MyGeneralBasicsTrees_MajorVersion>
+      <MyGeneralBasics_MajorVersion>7</MyGeneralBasics_MajorVersion>
+      <MyGeneralBasicsReflectionExtended_MajorVersion>4</MyGeneralBasicsReflectionExtended_MajorVersion>
+      <MyGeneralBasicsSerialization_MajorVersion>3</MyGeneralBasicsSerialization_MajorVersion>
+      <MyGeneralBasicsTrees_MajorVersion>3</MyGeneralBasicsTrees_MajorVersion>
     
     <!-- General.Resources -->
-      <MyGeneralResourcesBasics_MajorVersion>5</MyGeneralResourcesBasics_MajorVersion>
+      <MyGeneralResourcesBasics_MajorVersion>6</MyGeneralResourcesBasics_MajorVersion>
 
-      <MyGeneralResourcesDiskElementsBasicsAPI_MajorVersion>1</MyGeneralResourcesDiskElementsBasicsAPI_MajorVersion>
-      <MyGeneralResourcesDiskElementsBasicsApplication_MajorVersion>1</MyGeneralResourcesDiskElementsBasicsApplication_MajorVersion>
-      <MyGeneralResourcesDiskElementsBasicsDomain_MajorVersion>1</MyGeneralResourcesDiskElementsBasicsDomain_MajorVersion>
-      <MyGeneralResourcesDiskElementsBasicsInfraServices_MajorVersion>1</MyGeneralResourcesDiskElementsBasicsInfraServices_MajorVersion>      
-      <MyGeneralResourcesDiskElementsBasicsInfra_MajorVersion>1</MyGeneralResourcesDiskElementsBasicsInfra_MajorVersion>      
+      <MyGeneralResourcesDiskElementsBasicsAPI_MajorVersion>2</MyGeneralResourcesDiskElementsBasicsAPI_MajorVersion>
+      <MyGeneralResourcesDiskElementsBasicsApplication_MajorVersion>2</MyGeneralResourcesDiskElementsBasicsApplication_MajorVersion>
+      <MyGeneralResourcesDiskElementsBasicsDomain_MajorVersion>2</MyGeneralResourcesDiskElementsBasicsDomain_MajorVersion>
+      <MyGeneralResourcesDiskElementsBasicsInfraServices_MajorVersion>2</MyGeneralResourcesDiskElementsBasicsInfraServices_MajorVersion>      
+      <MyGeneralResourcesDiskElementsBasicsInfra_MajorVersion>2</MyGeneralResourcesDiskElementsBasicsInfra_MajorVersion>      
 
-      <MyGeneralResourcesHttpWebServicesBasicsInfraServices_MajorVersion>1</MyGeneralResourcesHttpWebServicesBasicsInfraServices_MajorVersion>
-      <MyGeneralResourcesHttpWebServicesBasicsWebAPI_MajorVersion>1</MyGeneralResourcesHttpWebServicesBasicsWebAPI_MajorVersion>
-      <MyGeneralResourcesHttpWebServicesBasicsEndpoints_MajorVersion>1</MyGeneralResourcesHttpWebServicesBasicsEndpoints_MajorVersion>
+      <MyGeneralResourcesHttpWebServicesBasicsInfraServices_MajorVersion>2</MyGeneralResourcesHttpWebServicesBasicsInfraServices_MajorVersion>
+      <MyGeneralResourcesHttpWebServicesBasicsWebAPI_MajorVersion>2</MyGeneralResourcesHttpWebServicesBasicsWebAPI_MajorVersion>
+      <MyGeneralResourcesHttpWebServicesBasicsEndpoints_MajorVersion>2</MyGeneralResourcesHttpWebServicesBasicsEndpoints_MajorVersion>
       
       
     <!-- General.SequenceParsing -->
-      <MyGeneralSequenceParsing_MajorVersion>1</MyGeneralSequenceParsing_MajorVersion>
+      <MyGeneralSequenceParsing_MajorVersion>2</MyGeneralSequenceParsing_MajorVersion>
 
     <!-- General.CleanCode -->
-      <MyGeneralCleanCodeDDD_MajorVersion>4</MyGeneralCleanCodeDDD_MajorVersion>
-      <MyGeneralCleanCodeCleanArchiApplication_MajorVersion>1</MyGeneralCleanCodeCleanArchiApplication_MajorVersion>
-      <MyGeneralCleanCodeDesignPatterns_MajorVersion>1</MyGeneralCleanCodeDesignPatterns_MajorVersion>
+      <MyGeneralCleanCodeDDD_MajorVersion>5</MyGeneralCleanCodeDDD_MajorVersion>
+      <MyGeneralCleanCodeCleanArchiApplication_MajorVersion>2</MyGeneralCleanCodeCleanArchiApplication_MajorVersion>
+      <MyGeneralCleanCodeDesignPatterns_MajorVersion>2</MyGeneralCleanCodeDesignPatterns_MajorVersion>
 
     <!-- General.CodeDiagnostics -->
-      <MyGeneralCodeDiagnosticsProfilingAPI_MajorVersion>1</MyGeneralCodeDiagnosticsProfilingAPI_MajorVersion>
-      <MyGeneralCodeDiagnosticsDebuggingAPI_MajorVersion>1</MyGeneralCodeDiagnosticsDebuggingAPI_MajorVersion>
-      <MyGeneralCodeDiagnosticsDebuggingApplication_MajorVersion>1</MyGeneralCodeDiagnosticsDebuggingApplication_MajorVersion>
-      <MyGeneralCodeDiagnosticsDebuggingInfra_MajorVersion>1</MyGeneralCodeDiagnosticsDebuggingInfra_MajorVersion>
+      <MyGeneralCodeDiagnosticsProfilingAPI_MajorVersion>2</MyGeneralCodeDiagnosticsProfilingAPI_MajorVersion>
+      <MyGeneralCodeDiagnosticsDebuggingAPI_MajorVersion>2</MyGeneralCodeDiagnosticsDebuggingAPI_MajorVersion>
+      <MyGeneralCodeDiagnosticsDebuggingApplication_MajorVersion>2</MyGeneralCodeDiagnosticsDebuggingApplication_MajorVersion>
+      <MyGeneralCodeDiagnosticsDebuggingInfra_MajorVersion>2</MyGeneralCodeDiagnosticsDebuggingInfra_MajorVersion>
 
     <!-- General.UI -->
-      <MyGeneralUIHTMLBasics_MajorVersion>1</MyGeneralUIHTMLBasics_MajorVersion>
-      <MyGeneralUIBasics_MajorVersion>1</MyGeneralUIBasics_MajorVersion>
+      <MyGeneralUIHTMLBasics_MajorVersion>2</MyGeneralUIHTMLBasics_MajorVersion>
+      <MyGeneralUIBasics_MajorVersion>2</MyGeneralUIBasics_MajorVersion>
 
     <!-- General.UI.Trees -->
-      <MyGeneralUITreesViewModels_MajorVersion>2</MyGeneralUITreesViewModels_MajorVersion>
-      <MyGeneralUITreesPresentersSequenceParsing_MajorVersion>1</MyGeneralUITreesPresentersSequenceParsing_MajorVersion>
-      <MyGeneralUITreesViewsHTML_MajorVersion>2</MyGeneralUITreesViewsHTML_MajorVersion>
+      <MyGeneralUITreesViewModels_MajorVersion>3</MyGeneralUITreesViewModels_MajorVersion>
+      <MyGeneralUITreesPresentersSequenceParsing_MajorVersion>2</MyGeneralUITreesPresentersSequenceParsing_MajorVersion>
+      <MyGeneralUITreesViewsHTML_MajorVersion>3</MyGeneralUITreesViewsHTML_MajorVersion>
 
     <!-- General.OS -->
-      <MyGeneralOSBasicsAPI_MajorVersion>1</MyGeneralOSBasicsAPI_MajorVersion>
-      <MyGeneralOSBasicsApplication_MajorVersion>1</MyGeneralOSBasicsApplication_MajorVersion>
-      <MyGeneralOSBasicsDomain_MajorVersion>1</MyGeneralOSBasicsDomain_MajorVersion>
-      <MyGeneralOSBasicsInfraServices_MajorVersion>1</MyGeneralOSBasicsInfraServices_MajorVersion>
-      <MyGeneralOSBasicsInfraPersistence_MajorVersion>1</MyGeneralOSBasicsInfraPersistence_MajorVersion>
+      <MyGeneralOSBasicsAPI_MajorVersion>2</MyGeneralOSBasicsAPI_MajorVersion>
+      <MyGeneralOSBasicsApplication_MajorVersion>2</MyGeneralOSBasicsApplication_MajorVersion>
+      <MyGeneralOSBasicsDomain_MajorVersion>2</MyGeneralOSBasicsDomain_MajorVersion>
+      <MyGeneralOSBasicsInfraServices_MajorVersion>2</MyGeneralOSBasicsInfraServices_MajorVersion>
+      <MyGeneralOSBasicsInfraPersistence_MajorVersion>2</MyGeneralOSBasicsInfraPersistence_MajorVersion>
 
 
-      <MyGeneralOSAppsWebBrowsersAPI_MajorVersion>1</MyGeneralOSAppsWebBrowsersAPI_MajorVersion>
-      <MyGeneralOSAppsWebBrowsersApplication_MajorVersion>1</MyGeneralOSAppsWebBrowsersApplication_MajorVersion>
-      <MyGeneralOSAppsWebBrowsersDomain_MajorVersion>1</MyGeneralOSAppsWebBrowsersDomain_MajorVersion>
-      <MyGeneralOSAppsWebBrowsersInfraServices_MajorVersion>1</MyGeneralOSAppsWebBrowsersInfraServices_MajorVersion>
+      <MyGeneralOSAppsWebBrowsersAPI_MajorVersion>2</MyGeneralOSAppsWebBrowsersAPI_MajorVersion>
+      <MyGeneralOSAppsWebBrowsersApplication_MajorVersion>2</MyGeneralOSAppsWebBrowsersApplication_MajorVersion>
+      <MyGeneralOSAppsWebBrowsersDomain_MajorVersion>2</MyGeneralOSAppsWebBrowsersDomain_MajorVersion>
+      <MyGeneralOSAppsWebBrowsersInfraServices_MajorVersion>2</MyGeneralOSAppsWebBrowsersInfraServices_MajorVersion>
 
-      <MyGeneralOSAppsTextEditorsAPI_MajorVersion>1</MyGeneralOSAppsTextEditorsAPI_MajorVersion>
-      <MyGeneralOSAppsTextEditorsApplication_MajorVersion>1</MyGeneralOSAppsTextEditorsApplication_MajorVersion>
-      <MyGeneralOSAppsTextEditorsDomain_MajorVersion>1</MyGeneralOSAppsTextEditorsDomain_MajorVersion>
-      <MyGeneralOSAppsTextEditorsInfraServices_MajorVersion>1</MyGeneralOSAppsTextEditorsInfraServices_MajorVersion>      
+      <MyGeneralOSAppsTextEditorsAPI_MajorVersion>2</MyGeneralOSAppsTextEditorsAPI_MajorVersion>
+      <MyGeneralOSAppsTextEditorsApplication_MajorVersion>2</MyGeneralOSAppsTextEditorsApplication_MajorVersion>
+      <MyGeneralOSAppsTextEditorsDomain_MajorVersion>2</MyGeneralOSAppsTextEditorsDomain_MajorVersion>
+      <MyGeneralOSAppsTextEditorsInfraServices_MajorVersion>2</MyGeneralOSAppsTextEditorsInfraServices_MajorVersion>      
 
 
-      <MyGeneralOSEventsAPI_MajorVersion>1</MyGeneralOSEventsAPI_MajorVersion>
-      <MyGeneralOSEventsApplication_MajorVersion>1</MyGeneralOSEventsApplication_MajorVersion>
-      <MyGeneralOSEventsDomain_MajorVersion>1</MyGeneralOSEventsDomain_MajorVersion>
-      <MyGeneralOSEventsInfraServices_MajorVersion>1</MyGeneralOSEventsInfraServices_MajorVersion>
+      <MyGeneralOSEventsAPI_MajorVersion>2</MyGeneralOSEventsAPI_MajorVersion>
+      <MyGeneralOSEventsApplication_MajorVersion>2</MyGeneralOSEventsApplication_MajorVersion>
+      <MyGeneralOSEventsDomain_MajorVersion>2</MyGeneralOSEventsDomain_MajorVersion>
+      <MyGeneralOSEventsInfraServices_MajorVersion>2</MyGeneralOSEventsInfraServices_MajorVersion>
 
     <!-- General.Security.Encryption -->
-      <MyGeneralSecurityEncryption_MajorVersion>2</MyGeneralSecurityEncryption_MajorVersion>
+      <MyGeneralSecurityEncryption_MajorVersion>3</MyGeneralSecurityEncryption_MajorVersion>
 
   </PropertyGroup>
 </Project>
