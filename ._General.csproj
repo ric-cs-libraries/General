@@ -1,7 +1,7 @@
 <Project>
   <PropertyGroup>
   
-    <MyDotnetVersion>7.0</MyDotnetVersion>
+    <MyDotnetVersion>8.0</MyDotnetVersion>
     <TargetFramework>net$(MyDotnetVersion)</TargetFramework>
 
     <MyCommonCsProjPath>D:\__LIBS\._Common\_C#\._CsProj</MyCommonCsProjPath>
