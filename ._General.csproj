@@ -14,7 +14,7 @@
     <!-- Versions majeures souhaitées communes aux projets(de cette arboresence) dépendants du package en question : -->
     
     <!-- General.Basics -->
-      <MyGeneralBasics_MajorVersion>7</MyGeneralBasics_MajorVersion>
+      <MyGeneralBasics_MajorVersion>8</MyGeneralBasics_MajorVersion>
       <MyGeneralBasicsReflectionExtended_MajorVersion>4</MyGeneralBasicsReflectionExtended_MajorVersion>
       <MyGeneralBasicsSerialization_MajorVersion>3</MyGeneralBasicsSerialization_MajorVersion>
       <MyGeneralBasicsTrees_MajorVersion>3</MyGeneralBasicsTrees_MajorVersion>
