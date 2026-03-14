@@ -1,0 +1,28 @@
+root = true
+
+# Avertir si : using directive inutile.
+[*.cs]
+dotnet_diagnostic.IDE0005.severity = warning
+
+
+# Désactiver surveillance : nouvelles syntaxes pour init. des collections.
+[*.cs]
+dotnet_diagnostic.IDE0028.severity = none
+dotnet_diagnostic.IDE0300.severity = none
+dotnet_diagnostic.IDE0301.severity = none
+dotnet_diagnostic.IDE0305.severity = none
+dotnet_diagnostic.IDE0306.severity = none
+
+
+# Désactiver : "utiliser le constructeur principal" (.NET8)
+[*.cs]
+dotnet_diagnostic.IDE0290.severity = none
+
+# Désactiver : "l'expression default peut être simplifiée"
+[*.cs]
+dotnet_diagnostic.IDE0034.severity = none
+
+
+#Désactiver : "Préférer Count au lieu d'Any(), pour raisons de perfs"
+[*.cs]
+dotnet_diagnostic.CA1860.severity = none
